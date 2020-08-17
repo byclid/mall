@@ -18,8 +18,8 @@
     height: 44px;
     line-height: 44px;
     text-align: center;
-    background-color: pink;
     box-shadow: 0 1px 1px rgba(100,100,100,.1);
+
   }
 
   .left, .right {
@@ -28,6 +28,5 @@
 
   .center {
     flex: 1;
-    color: white;
   }
 </style>
