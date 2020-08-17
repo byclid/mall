@@ -11,7 +11,7 @@ const Profile = () => import('views/profile/Profile')
 const routes = [
   {
     path: '',
-    component: Home
+    redirect: '/home'
   },
   {
     path: '/home',
